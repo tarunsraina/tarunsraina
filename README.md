@@ -5,10 +5,11 @@ Currently working on  android development and file structure projects.
 
 -How to reach me: 
 
-                    
-[linkedin](https://www.linkedin.com/in/tarun-teja-814b3a1a9)                    
-[Sololearn](https://www.sololearn.com/Profile/17499531/?ref=app)        
-[instagram](https://www.instagram.com/tarunsraina)                 
+               
+[linkedin](https://www.linkedin.com/in/tarun-teja-814b3a1a9)                              
+[instagram](https://www.instagram.com/tarunsraina)                  
+[codechef](https://www.codechef.com/users/tarun728)           
+[Sololearn](https://www.sololearn.com/Profile/17499531/?ref=app)            
 gmail:tarunsraina483@gmail.com
 
 
