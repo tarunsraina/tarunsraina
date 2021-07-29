@@ -6,11 +6,12 @@ Currently working on  android development and file structure projects.
 -How to reach me: 
 
                
-[linkedin](https://www.linkedin.com/in/tarun-teja-814b3a1a9)                              
-[instagram](https://www.instagram.com/tarunsraina)                  
-[codechef](https://www.codechef.com/users/tarun728)           
-[Sololearn](https://www.sololearn.com/Profile/17499531/?ref=app)            
-gmail:tarunsraina483@gmail.com
+[Linkedin](https://www.linkedin.com/in/tarun-teja-814b3a1a9)                              
+[Instagram](https://www.instagram.com/tarunsraina)                  
+[Codechef](https://www.codechef.com/users/tarun728)          
+[Hackerrank](https://www.hackerrank.com/tarunsraina)     
+[Sololearn](https://www.sololearn.com/Profile/17499531/?ref=app)                 
+Gmail:tarunsraina483@gmail.com
 
 
 
