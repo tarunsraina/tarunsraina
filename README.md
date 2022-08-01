@@ -1,9 +1,5 @@
 Hello there,I'm Tarun teja,
-
-I’m currently learning android development,cloud computing and web development.
-Currently working on  android development and file structure projects.
-
--How to reach me: 
+ 
 
                
 [Linkedin](https://www.linkedin.com/in/tarun-teja-814b3a1a9)                              
