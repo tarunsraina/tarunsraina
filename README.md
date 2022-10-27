@@ -3,7 +3,7 @@ Hello there,I'm Tarun teja,
 
                
 [Linkedin](https://www.linkedin.com/in/tarun-teja-814b3a1a9)                              
-[Instagram](https://www.instagram.com/tarunsraina)                  
+[Instagram](https://www.instagram.com/tarunnnteja)                  
 [Codechef](https://www.codechef.com/users/tarun728)          
 [Hackerrank](https://www.hackerrank.com/tarunsraina)     
 [Sololearn](https://www.sololearn.com/Profile/17499531/?ref=app)                 
